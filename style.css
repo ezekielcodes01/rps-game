@@ -1,0 +1,13 @@
+.red-button {
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.yellow-button {
+  background-color: yellow;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
